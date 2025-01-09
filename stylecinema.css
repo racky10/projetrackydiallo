@@ -109,6 +109,15 @@ header img {
     align-items: center;
 }
 
+.Apropos {
+    height: 900px;
+    text-align: center;
+}
+
+h1 {
+    margin-right: 6rem;
+}
+
 .gauche {
     float: left;
 }
@@ -120,4 +129,52 @@ header img {
 .img-apropos {
     height: 300px;
     width: 700px;
+}
+
+.Films {
+    background-color: black;
+}
+
+.text-film {
+    color: white;
+}
+
+.Evenements {
+    background-image: url(image3.png);
+    background-size: cover;
+}
+
+.texth-ev {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.paragraphe {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.images-ev {
+    padding: 2rem;
+    margin-bottom: 30px;
+    margin-right: 19px;
+    margin-top: 20px;
+    height: 250px;
+    width: auto;
+}
+
+.textb-ev {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.paragraphe2 {
+    margin: 10px;
+    padding: 10px;
+
 }
